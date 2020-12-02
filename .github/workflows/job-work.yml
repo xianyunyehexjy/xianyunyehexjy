@@ -25,7 +25,7 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: set git config
         run: |
-          git config --global user.name "许剑煜"
+          git config --global user.name "xianyunyehexjy"
           git config --global user.email "806390502@qq.com"
       - name: git pull erp
         run: |
