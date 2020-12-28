@@ -3,8 +3,8 @@
 😄 listen to my this week song list of top 5:
 
 0. 🌈Free - Kidswaste
-1. 🌈Walk Thru Fire - Vicetone/Meron Ryan
-2. 🌈Lovefool - twocolors
-3. 🌈Sold Out - Hawk Nelson
-4. 🌈Remember Our Summer - FrogMonster
+1. 🌈DEAR JOHN - 比莉
+2. 🌈Not Angry - Chris James
+3. 🌈Lovefool - twocolors
+4. 🌈Can We Kiss Forever - Kina/Adriana Proenza
 
