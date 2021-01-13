@@ -2,9 +2,9 @@
 
 😄 listen to my this week song list of top 5:
 
-0. 🌈侧脸 - 于果
-1. 🌈Traveling Light - Joel Hanson/Sara Groves
-2. 🌈瘾 - 陈楚生
-3. 🌈Meant To Be - Arc North/Krista Marina
-4. 🌈月牙湾 - F.I.R.
+0. 🌈Traveling Light - Joel Hanson/Sara Groves
+1. 🌈四季予你 - 程响
+2. 🌈三角志 - 卢巧音
+3. 🌈月牙湾 - F.I.R.
+4. 🌈处处吻 - 杨千嬅
 
